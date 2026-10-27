@@ -1,0 +1,1 @@
+Esta carpeta contiene ilustraciones SVG locales de mascotas y productos. Se muestran sin depender de servicios externos. Puedes reemplazarlas por fotografías propias y actualizar las rutas en index.html.
